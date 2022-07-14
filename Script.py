@@ -1,5 +1,7 @@
 class script(object):
-    START_TXT = """<b>Hi, I'm Movies Search BOT, Powered BY MSP Bots/nHere you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.</b>"""
+    START_TXT = """<b>Hi, I'm Movies Search BOT, Powered BY MSP Bots
+
+Here you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>Developer : <a href='https://t.me/BaashaBaii'>Baasha Baii</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://t.me/MSPbots'>Click here</a>\nHelp Group : <a href='https://t.me/MSPdiscussion'>MSP Bots</a> </b>"""
